@@ -89,7 +89,7 @@ Explicação:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Manuella Cadais**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+🔗 [LinkedIn](www.linkedin.com/in/manuella-cadais-04750b365)
 
 ---
 
