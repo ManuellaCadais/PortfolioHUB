@@ -19,3 +19,7 @@ from Melhorias import explicacao
 
 # ... depois da verificação
 explicacao(numero)
+
+with open("historico.txt", "a") as arquivo:
+    status = "primo" if eh_primo(numero) else "não primo"
+    arquivo.write(f"{numero} é {status}\n")
