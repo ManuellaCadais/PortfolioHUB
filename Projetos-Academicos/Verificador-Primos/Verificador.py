@@ -14,3 +14,8 @@ if eh_primo(numero):
     print(f"{numero} é primo!")
 else:
     print(f"{numero} não é primo.")
+
+from Melhorias import explicacao
+
+# ... depois da verificação
+explicacao(numero)
